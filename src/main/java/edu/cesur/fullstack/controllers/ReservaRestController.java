@@ -1,9 +1,9 @@
 package edu.cesur.fullstack.controllers;
 
 public class ReservaRestController {
+		// Crear una nueva reserva.
+		//Cancelar una reserva existente.
+		//Ver todas las reservas.
 
-	public ReservaRestController() {
-		// TODO Auto-generated constructor stub
-	}
 
 }
